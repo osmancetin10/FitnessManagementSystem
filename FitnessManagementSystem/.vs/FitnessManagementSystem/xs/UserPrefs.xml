@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{11DC2DC8-3BB0-4586-963F-F3BADC96598D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FitnessManagementSystem/Controllers/MovementController.cs">
+    <Files>
+      <File FileName="FitnessManagementSystem/Controllers/ExerciseController.cs" Line="86" Column="29" />
+      <File FileName="FitnessManagementSystem/Controllers/MovementController.cs" Line="86" Column="77" />
+      <File FileName="FitnessManagementSystem/Middlewares/Middleware.cs" Line="19" Column="1" />
+      <File FileName="FitnessManagementSystem/Models/CommonFeatures.cs" Line="13" Column="32" />
+      <File FileName="FitnessManagementSystem/Program.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FitnessManagementSystem" expanded="True">
+            <Node name="FitnessManagementSystem" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="MovementController.cs" selected="True" />
+              </Node>
+              <Node name="Middlewares" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FitnessManagementSystem PreferredExecutionTarget="/Applications/Brave Browser.app" />
+</Properties>
